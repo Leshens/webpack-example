@@ -44,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668937324712</updated>
       <workItem from="1668937326812" duration="162000" />
-      <workItem from="1668937965929" duration="320000" />
+      <workItem from="1668937965929" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="Add files to lecture_7">
       <created>1668938045098</created>
@@ -53,7 +53,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668938045098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add files to lecture_7 v3">
+      <created>1668938377315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668938377315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add files to lecture_7 v4">
+      <created>1668938411084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668938411084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add files to lecture_7 v4">
+      <created>1668938422851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668938422851</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add files to lecture_7">
+      <created>1668938591609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668938591609</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +99,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add files to lecture_7 v3" />
+    <MESSAGE value="Add files to lecture_7 v4" />
     <MESSAGE value="Add files to lecture_7" />
     <option name="LAST_COMMIT_MESSAGE" value="Add files to lecture_7" />
   </component>
